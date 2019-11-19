@@ -1,6 +1,6 @@
 <h2>Description:</h2>
 
-This is landing page layout - Name here Supports desktop, tablet and mobile versions
+This is landing page layout - Vangoux Supports desktop, tablet and mobile versions
 
 <h2>Pages implemented:</h2>
 https://eposha.github.io/vangoux
