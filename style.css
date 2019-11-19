@@ -212,7 +212,7 @@
   position: absolute;
   top: 1000px;
   text-align: center;
-  max-width: 640px;
+  width: 640px;
   height: 180px;
   font-weight: 700;
   font-size: 20px;
@@ -247,7 +247,7 @@
 .reviews .review {
   padding-top: 40px;
   margin-bottom: 50px;
-  max-width: 540px;
+  width: 540px;
   height: 280px;
   background-color: #fff;
 }
@@ -542,7 +542,7 @@
 }
 .users__card-wrapper .user {
   margin-bottom: 20px;
-  max-width: 250px;
+  width: 250px;
   height: 190px;
   background: #FFFFFF;
   box-shadow: 0px 20px 60px rgba(49, 69, 244, 0.1);
@@ -629,7 +629,7 @@
 .purposes .purpose {
   display: flex;
   margin-bottom: 40px;
-  max-width: 520px;
+  width: 520px;
   height: 80px;
   background: #FFFFFF;
   box-shadow: 0px 20px 60px rgba(49, 69, 244, 0.1);
@@ -793,7 +793,7 @@
   margin: 0 auto;
   margin-top: 61px;
   background-color: #FBFBFB;
-  max-width: 640px;
+  width: 640px;
   height: 130px;
 }
 @media screen and (min-width: 1024px) {
@@ -896,7 +896,7 @@
 
 body {
   margin: 0 auto;
-  max-width: 640px;
+  width: 640px;
   color: #11223F;
   background: linear-gradient(180deg, rgba(25, 104, 252, 0.0001) 0%, rgba(25, 104, 252, 0.05) 23.07%, rgba(25, 104, 252, 0.0001) 99.94%, rgba(25, 104, 252, 0.05) 100%);
 }
