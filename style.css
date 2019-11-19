@@ -212,7 +212,7 @@
   position: absolute;
   top: 1000px;
   text-align: center;
-  width: 640px;
+  max-width: 640px;
   height: 180px;
   font-weight: 700;
   font-size: 20px;
@@ -247,7 +247,7 @@
 .reviews .review {
   padding-top: 40px;
   margin-bottom: 50px;
-  width: 540px;
+  max-width: 540px;
   height: 280px;
   background-color: #fff;
 }
@@ -430,7 +430,7 @@
 .features__list .feature {
   position: relative;
   margin-bottom: 60px;
-  width: 520px;
+  max-width: 520px;
   height: 200px;
   background: #FFFFFF;
   box-shadow: 0px 20px 60px rgba(49, 69, 244, 0.1);
@@ -484,7 +484,7 @@
   display: flex;
   margin: auto;
   margin-top: 30px;
-  width: 440px;
+  max-width: 440px;
   height: 60px;
   font-size: 16px;
   line-height: 30px;
@@ -542,7 +542,7 @@
 }
 .users__card-wrapper .user {
   margin-bottom: 20px;
-  width: 250px;
+  max-width: 250px;
   height: 190px;
   background: #FFFFFF;
   box-shadow: 0px 20px 60px rgba(49, 69, 244, 0.1);
@@ -629,7 +629,7 @@
 .purposes .purpose {
   display: flex;
   margin-bottom: 40px;
-  width: 520px;
+  max-width: 520px;
   height: 80px;
   background: #FFFFFF;
   box-shadow: 0px 20px 60px rgba(49, 69, 244, 0.1);
@@ -654,7 +654,7 @@
   margin-top: 60px;
   padding-top: 60px;
   background-color: #1968FC;
-  width: 640px;
+  max-width: 640px;
   height: 480px;
 }
 @media screen and (min-width: 1024px) {
@@ -697,7 +697,7 @@
 }
 .consultation__button {
   margin-top: 40px;
-  width: 320px;
+  max-width: 320px;
   height: 50px;
   background: #FFFFFF;
   box-shadow: 4px 4px 20px rgba(255, 255, 255, 0.4);
@@ -793,7 +793,7 @@
   margin: 0 auto;
   margin-top: 61px;
   background-color: #FBFBFB;
-  width: 640px;
+  max-width: 640px;
   height: 130px;
 }
 @media screen and (min-width: 1024px) {
@@ -896,7 +896,7 @@
 
 body {
   margin: 0 auto;
-  width: 640px;
+  max-width: 640px;
   color: #11223F;
   background: linear-gradient(180deg, rgba(25, 104, 252, 0.0001) 0%, rgba(25, 104, 252, 0.05) 23.07%, rgba(25, 104, 252, 0.0001) 99.94%, rgba(25, 104, 252, 0.05) 100%);
 }

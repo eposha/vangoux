@@ -3,7 +3,7 @@
     margin-top: 60px;
     padding-top: 60px;
     background-color: $text-color-blue;
-    width: 640px;
+    max-width: 640px;
     height: 480px;
     @include for-large-up {
         margin: 0 auto;
@@ -39,7 +39,7 @@
     }
     &__button {
         margin-top: 40px;
-        width: 320px;
+        max-width: 320px;
         height: 50px;
         background: #FFFFFF;
         box-shadow: 4px 4px 20px rgba(255, 255, 255, 0.4);
